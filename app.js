@@ -10,7 +10,6 @@
 // console.log(newArr[n - 1])
 
 // 4 ------------------------------------------------------------
-
 // let arr = ["flower", "flow", "flight"]
 // let firstWord = arr[0]
 // let prefix = ""
@@ -26,7 +25,6 @@
 //         }
 //     }
 // }
-
 // console.log(prefix)
 
 
